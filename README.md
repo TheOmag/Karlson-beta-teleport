@@ -4,7 +4,7 @@
 <p>First download <a href="https://github.com/BepInEx/BepInEx/releases/tag/v5.4.17">Link</a> and drag and drop the contents of the zip into your karlson folder.<br>
 Next run your game onces to configure the files.
 Finally drag and drop the .dll file into the plugins folder bepinex/plugins, then run you game and enjoy.<br>
-It is important to note that you only need to do this once, the rest of the mods can go to the plugins folder.<br>
+<b>It is important to note that you only need to do this once, the rest of the mods can go to the plugins folder.</b><br>
 If you have any questions or issues please DM me on discord CrafterBot#7578 or post a issue.</p>
 
 <h3>Instruction:</h3>
