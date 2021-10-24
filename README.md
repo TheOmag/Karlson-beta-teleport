@@ -8,9 +8,13 @@
 <h3>Planned Updates</h3>
 <table>
   <tr>
-    <th>Bug fixes</th>
-    <th>New features</th>
-    <th>Removal of features</th>
+    <th>Idea</th>
+    <th>Action</th>
+  </tr>
+    <tr>
+    <td>Bug fixes</td>
+    <td>New features</td>
+    <td>Removal of features</td>
   </tr>
   <tr>
     <td>Any bugs that are found</td>
