@@ -1,8 +1,7 @@
 <h3>Karlson-beta teleport</h3>
 <P>This is a basic mod for Karlson-beta that lets you teleport by pressing T.</p>
 <h3>Instruction:</h3>
-<p>Hit the T button on your keyboard to teleport to where you are looking.<br> 
-Hit the P button on your keyboard to teleport to position  0, 0, 0.</p>
+<p>Hit the T button on your keyboard to teleport to where you are looking.</p>
 <h3>Karlson-Beta download:</h3>
 <P><a href="https://danidev.itch.io/karlson">Link</a> - Scroll down a little bit to find the download link.</p>
 <h3>Planned Updates:</h3>
