@@ -4,4 +4,22 @@
 <p>Hit the t button on your keyboard to teleport to where you are looking.</p><br>
 <p>Hit the P button on your keyboard to teleport to position  0, 0, 0<./p><br>
 <h3>Karlson-Beta download</h3>
-<P><a href="https://danidev.itch.io/karlson">Link</a> - Scroll down a little but to find the download link.</p><br>
+<P><a href="https://danidev.itch.io/karlson">Link</a> - Scroll down a little bit to find the download link.</p><br>
+<h3>Planned Updates</h3>
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
