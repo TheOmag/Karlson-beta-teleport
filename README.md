@@ -7,6 +7,8 @@ Finally drag and drop the .dll file into the plugins folder bepinex/plugins, the
 <b>It is important to note that you only need to do this once, the rest of the mods can go to the plugins folder.</b><br>
 If you have any questions or issues please DM me on discord CrafterBot#7578 or post a issue.</p>
 
+<h3>Video Intructions</h3>
+<iframe src="https://giphy.com/embed/ESu8pATy5ZifTC5Qzg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mod-karlson-bepinex-ESu8pATy5ZifTC5Qzg">via GIPHY</a></p>
 
 <h3>Instruction:</h3>
 <p>Hit the T button on your keyboard to teleport to where you are looking.</p>
