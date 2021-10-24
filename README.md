@@ -10,6 +10,7 @@
   <tr>
     <th>Idea</th>
     <th>Planned Action</th>
+    <th></th>
   </tr>
     <tr>
     <td>Bug fixes</td>
