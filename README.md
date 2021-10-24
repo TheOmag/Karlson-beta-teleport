@@ -8,18 +8,13 @@
 <h3>Planned Updates</h3>
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Bug fixes</th>
+    <th>New features</th>
+    <th>Removal of features</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Any bugs that are found</td>
+    <td>Type in the console and tp to that point(/tp)</td>
+    <td>None</td>
   </tr>
 </table>
