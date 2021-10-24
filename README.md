@@ -7,11 +7,6 @@
 <P><a href="https://danidev.itch.io/karlson">Link</a> - Scroll down a little bit to find the download link.</p><br>
 <h3>Planned Updates</h3>
 <table>
-  <tr>
-    <th>Idea</th>
-    <th>Planned Action</th>
-    <th></th>
-  </tr>
     <tr>
     <td>Bug fixes</td>
     <td>New features</td>
