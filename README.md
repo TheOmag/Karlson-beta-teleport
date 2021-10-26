@@ -22,7 +22,7 @@ If you have any questions or issues please DM me on discord CrafterBot#7578 or p
     <td>Removal of features</td>
   </tr>
   <tr>
-    <td>Log spamming due to code error</td>
+    <td>if any errors are found</td>
     <td>Type in the console and tp to that point(/tp)</td>
     <td>None</td>
   </tr>
